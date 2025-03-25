@@ -269,3 +269,8 @@ body {
   object-fit: cover;
   filter: saturate(1.3);
 }
+
+.is-highlighted {
+  border: 3px rgb(58, 154, 17) solid;
+  border-radius: 15px;
+}
